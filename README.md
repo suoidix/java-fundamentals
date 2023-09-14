@@ -1,2 +1,2 @@
-# java-fundamentals
+# javaS-fundamentals
 Javascript fundamentals
